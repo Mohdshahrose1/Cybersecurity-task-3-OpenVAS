@@ -1,0 +1,35 @@
+# Vulnerability Scan Report — OpenVAS Community Edition
+
+## Scan Details
+- **Task Name**: Localhost Scan
+- **Scanner**: OpenVAS Default
+- **Date**: 26 September 2025
+- **Start Time**: 10:20:03 UTC
+- **End Time**: 10:22:48 UTC
+- **Duration**: ~2 minutes
+- **Target**: --------- (Localhost)
+
+## Result Overview
+
+| Host       | High | Medium | Low | Log | False Positive |
+|------------|------|--------|-----|-----|----------------|
+| Localhost  | 0    | 0      | 0   | 0   | 0              |
+
+> No vulnerabilities were detected during this scan.
+
+## Report Notes
+- Vendor security updates are not trusted.
+- Overrides are disabled; actual threat levels are used.
+- Issues with threat levels “Log,” “Debug,” and “False Positive” are excluded.
+- Only results with a minimum QoD (Quality of Detection) of 70 are shown.
+- This report contains **0 results** after filtering.
+
+## Remediation Summary
+No action required. System appears clean based on current scan parameters.
+
+## 📝 Analyst Notes
+This scan was performed using OpenVAS Community Edition on a local machine. While no vulnerabilities were detected, it's recommended to:
+- Keep all software and OS packages updated
+- Periodically re-scan after system changes
+- Consider scanning from an external host for broader coverage
+
