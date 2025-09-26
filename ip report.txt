@@ -1,0 +1,22 @@
+Scan Report
+September 26, 2025
+Summary
+   This document reports on the results of an automatic security scan. All dates are displayed using the timezone Coordinated Universal Time, which is abbreviated UTC. The task was localhost scan. The scan started at Fri Sep 26 10:20:03 2025 UTC and ended at Fri Sep 26 10:22:48 2025 UTC. The report rst summarises the results found. Then, for each host, the report describes every issue found. Please consider the advice given in each description, in order to rectify the issue.
+Contents
+1 Result Overview	2
+2 Results per Host	2
+1
+1 RESULT OVERVIEW	2
+1 Result Overview
+HostHighMediumLowLogFalse PositiveTotal: 000000Vendor security updates are not trusted.
+Overrides are o. Even when a result has an override, this report uses the actual threat of the result.
+Information on overrides is included in the report.
+Notes are included in the report.
+This report might not show details of all issues that were found.
+Issues with the threat level Log are not shown.
+Issues with the threat level Debug are not shown.
+Issues with the threat level False Positive are not shown. Only results with a minimum QoD of 70 are shown.
+This report contains 0 results. Before ltering there were 0 results.
+2 Results per Host
+
+This le was automatically generated.
